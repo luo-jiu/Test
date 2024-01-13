@@ -1,1 +1,8 @@
 demo vue xxx
+
+use databases;
+create database db_name;
+create table tb_name()engine=tsm;
+create table tb_name();
+create table tb_name(field_1=string,field_2=integer);
+insert into table_name,tag_1='tage_name_1',tag_2='tag_name_2' field_1='value_1',field_2='value_2';
